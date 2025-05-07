@@ -114,7 +114,7 @@ No adaptive learning (e.g., no machine learning or neural networks)
 
 Emotional and moral responses are heuristic, not conceptual
 
--> Future Enhancements 
+-> Future Enhancements:
 Add large language model (LLM) backend (e.g., GPT integration) for dynamic replies
 
 Expand memory system to include relational linking and decay-based memory loss

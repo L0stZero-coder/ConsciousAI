@@ -2,10 +2,10 @@ ConsciousAI is an advanced, modular simulation of artificial consciousness imple
 
 With real-time Twitch chat and voice input integration, ConsciousAI serves as a robust foundation for emotionally reactive VTubers, game NPCs, virtual assistants, or AI-driven interactive companions.
 
-📐 Architecture Summary
+-> Architecture Summary 
 The system consists of six primary modules, each replicating a fundamental aspect of human-like cognition:
 
-Module	Purpose
+->  Module	Purpose 
 EmotionModule	Models emotions with intensity and temporal decay
 MemoryModule	Stores both episodic and semantic memory with emotional tags
 GoalModule	Manages a hierarchy of adaptive goals (basic to existential)
@@ -13,13 +13,13 @@ SelfModel	Tracks evolving traits, identity, and introspective awareness
 EthicsModule	Simulates moral reasoning and consequence evaluation
 ConsciousAgent	Orchestrates all modules and processes all input contextually
 
-Additionally, it supports:
+-> Additionally, it supports:
 
 Voice input via system microphone (speech recognition)
 
 Live Twitch chat input for real-time audience interaction
 
-🧬 Module Breakdown
+-> Module Breakdown
 1. EmotionModule
 Parses emotional context from input (keywords like "love", "hate", "lost")
 
@@ -85,7 +85,7 @@ Connects to a Twitch channel using TwitchLib.Client
 
 Processes chat messages as input, allowing the AI to participate in live stream conversation
 
-🧠 Simulation Depth
+-> Simulation Depth
 ConsciousAI does not replicate true human consciousness. Instead, it creates the illusion of conscious behavior by:
 
 Reacting emotionally to input
@@ -100,21 +100,21 @@ Making ethical judgments based on content
 
 These systems together emulate a form of artificial introspection and behavioral realism, suitable for entertainment, research, or user interaction applications.
 
-🧩 Example Use Cases
+-> Example Use Cases
 Use Case	Description
 AI VTuber	Talks to Twitch chat, remembers audience, reflects emotions in real-time
 NPC Dialogue AI	Powers characters with evolving mood, memory, and purpose
 AI Therapist/Companion	Remembers user patterns, offers emotional feedback and ethical insight
 Behavioral Simulation	Academic tool for studying human-like AI behavior under controlled stimuli
 
-🚫 Limitations
+-> Limitations
 No real consciousness, qualia, or sentient understanding
 
 No adaptive learning (e.g., no machine learning or neural networks)
 
 Emotional and moral responses are heuristic, not conceptual
 
-🧠 Future Enhancements
+-> Future Enhancements 
 Add large language model (LLM) backend (e.g., GPT integration) for dynamic replies
 
 Expand memory system to include relational linking and decay-based memory loss
